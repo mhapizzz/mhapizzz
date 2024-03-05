@@ -58,7 +58,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/mhapizzz/mhapizzz/output/snake.svg" alt="Snake animation" />
 <!---
+<img src="https://raw.githubusercontent.com/mhapizzz/mhapizzz/output/snake.svg" alt="Snake animation" />
 -->
 ###
